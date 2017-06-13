@@ -5,3 +5,5 @@ My First Commit in Feature-1
 My Second Commit in Master
 
 My Third Commit in Master
+
+My Fourth Commit in Master
